@@ -1,0 +1,12 @@
+
+body{
+    background-color: blanchedalmond;
+}
+
+p,h2,h1{
+    font-family: monospace;
+    text-align: center;
+}
+#li{
+    font-size: large;
+}
