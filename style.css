@@ -23,8 +23,13 @@ p{
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
+    color: black;
 }
 .foto{
 border-radius: 20%;
 
+}
+
+.aboutme{
+    font-family: 'montserrat'
 }
