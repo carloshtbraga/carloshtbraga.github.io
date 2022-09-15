@@ -12,6 +12,19 @@ p,h2,h1{
 h1{
    font-size: 400%;
 }
+
 p{
     font-size: larger;
+}
+
+.button{
+    background-color: yellowgreen;
+    padding: 14px 14px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.foto{
+border-radius: 20%;
+
 }
