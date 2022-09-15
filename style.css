@@ -1,9 +1,14 @@
 
 body{
     background-color: blanchedalmond;
+    font-family: monospace;
 }
 
 p,h2,h1{
-    font-family: monospace;
+    
     text-align: center;
+}
+
+h1{
+   font-size: 400%;
 }
