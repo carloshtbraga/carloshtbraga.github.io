@@ -18,12 +18,12 @@ p{
 }
 
 .button{
-    background-color: yellowgreen;
+    background-color: black;
     padding: 14px 14px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    color: black;
+    color: white
 }
 .foto{
 border-radius: 20%;
