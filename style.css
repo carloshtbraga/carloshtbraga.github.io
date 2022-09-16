@@ -30,8 +30,9 @@ hr{
     color: white
 }
 .foto{
-border-radius: 20%;
-
+    border-radius: 20%;
+    margin: 0 auto;
+    display: flex;
 }
 
 .aboutme{
@@ -41,7 +42,9 @@ border-radius: 20%;
 
 .trybe{
     width: 100px;
-    
+     position: absolute;
+     left: 620px;
+     top: 695px;
 }
 
 ul, ol{
