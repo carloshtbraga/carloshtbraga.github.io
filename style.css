@@ -17,6 +17,10 @@ p{
     font-size: larger;
 }
 
+hr{
+    
+}
+
 .button{
     background-color: black;
     padding: 14px 14px;
@@ -32,4 +36,17 @@ border-radius: 20%;
 
 .aboutme{
     font-family: 'montserrat'
+
+}
+
+.trybe{
+    width: 100px;
+    margin: 0 auto;
+}
+
+ul, ol{
+
+margin: 0 auto;
+width: 200px;
+
 }
