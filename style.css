@@ -31,10 +31,10 @@ hr{
 }
 .foto{
     border-radius: 20%;
-    margin: 0 auto;
-    display: flex;
     padding: 10px;
     background-color: rgb(240, 157, 56);
+    float: left;
+    height: 300px;
 }
 
 .aboutme{
@@ -43,10 +43,12 @@ hr{
 }
 
 .trybe{
-    width: 100px;
-     position: absolute;
-     left: 620px;
-     top: 695px;
+width: 100px;
+margin: 0 auto;
+display: flex;
+
+
+
 }
 
 ul, ol{
@@ -56,7 +58,10 @@ width: 200px;
 
 }
 
-divi{
-float: inline-end;
 
+
+.divi{
+    height: 400px;
+    position: relative;
+   
 }
