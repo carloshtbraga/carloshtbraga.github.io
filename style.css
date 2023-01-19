@@ -1,30 +1,74 @@
+/* Global Styles */
 body {
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
 }
 
-#inicio {
-  margin-top: 50px;
+/* Header Styles */
+header {
+  background-color: #f9a826;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  position: relative;
+  z-index: 2;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5em;
+}
+
+/* Main Content Styles */
+main {
+  display: flex;
+  justify-content: center;
+  padding: 3em 0;
+  position: relative;
+  z-index: 1;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+  padding: 2em;
+}
+
+section h2 {
+  margin-bottom: 1em;
+  font-size: 1.5em;
 }
 
 .foto {
+  width: 200px;
   border-radius: 50%;
-  margin: 0 auto;
-}
-
-.divi {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+  margin: 1em auto;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
 }
 
 .aboutme {
-  font-size: 1.5em;
-  margin: 20px;
+  font-style: italic;
+  line-height: 1.5em;
+  text-align: justify;
 }
 
 .trybe {
-  width: 100px;
-  margin: 20px;
+  width: 150px;
+  margin: 1em auto;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #f9a826;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  /* position: relative; */
+  z-index: 2;
 }
