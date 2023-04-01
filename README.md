@@ -4,13 +4,10 @@
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
   <a href="#contato">Contato</a>
 </p>
-<h1 align='center'>
- Link
-</h1>
 
-```
-                                          https://portf-lio-react-red.vercel.app
-```
+<h1 align='center'>https://portf-lio-react-red.vercel.app</h1>
+
+
 
 <h1 align='center'>Sobre o projeto</h1>
 <p align='center'>Esse portfólio foi feito pensando em diversão e inclusão</p>
@@ -31,4 +28,3 @@
 <p align='center'>E-mail: carloshtbraga@gmail.com</p>
 <p align='center'>LinkedIn: https://www.linkedin.com/in/carloshtbraga</p>
 <p align='center'>Website: https://portf-lio-react-red.vercel.app</p>
-
